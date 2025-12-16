@@ -1,11 +1,14 @@
-# 🛠️ MySQL Database – Vacation Stay Management
+#  MySQL Database – Vacation Stay Management
 
-This is a simple MySQL-based project that demonstrates how to design and work with a relational database for managing vacation stay information. It includes tables and queries for properties, bookings, customers, staff, and payments.
+This project demonstrates the design and implementation of a relational MySQL database
+for managing vacation stay information. It includes tables and queries for properties,
+bookings, customers, staff, and payments.
 
-📖 About  
+
+About  
 This project is focused on creating a structured and normalized MySQL database for a vacation rental management system. It showcases how to define tables, relationships, and populate data using SQL.
 
-🧰 Technologies Used  
+ Technologies Used  
 - MySQL 8+  
 - SQL (DDL & DML)  
 - MySQL Workbench or phpMyAdmin (for GUI)  
