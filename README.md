@@ -13,12 +13,12 @@ This project is focused on creating a structured and normalized MySQL database f
 The database is designed using a normalized relational model
 that includes customers, properties, bookings, payments, and staff.
 
-
+```
 customers ── bookings ── properties
                 │
                 └── payments
 staff ──────────┘
-
+```
 
  Technologies Used  
 - MySQL 8+  
