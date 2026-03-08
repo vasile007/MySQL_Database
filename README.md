@@ -8,6 +8,18 @@ bookings, customers, staff, and payments.
 About  
 This project is focused on creating a structured and normalized MySQL database for a vacation rental management system. It showcases how to define tables, relationships, and populate data using SQL.
 
+## 📊 Database Schema
+
+The database is designed using a normalized relational model
+that includes customers, properties, bookings, payments, and staff.
+
+
+customers ── bookings ── properties
+                │
+                └── payments
+staff ──────────┘
+
+
  Technologies Used  
 - MySQL 8+  
 - SQL (DDL & DML)  
